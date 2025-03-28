@@ -1,7 +1,7 @@
 # STM32 MPU9250 Posture Detection System
  MPU9250, LCD and FreeRTOS projects using STM32F103.
-#简述
- 一个STM32F103项目 在FreeRTOS中使用MPU9250和LCD
+# 简述
+ STM32F103 FreeRTOS项目 使用MPU9250和LCD
  
 # 实现功能
 1. 整个项目在STM32F103的FreeRTOS系统下运行
